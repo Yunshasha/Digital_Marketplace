@@ -23,6 +23,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Learn More
 
 [shadcn](https://ui.shadcn.com/) is where you get all the UI components
+<br/>
 **installation**
 
 ```
