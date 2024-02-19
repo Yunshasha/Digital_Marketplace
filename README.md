@@ -1,6 +1,6 @@
 ## Getting Started
 
-_This project is based on Next.js + TypeScript + React_
+_This project is based on Next.js + TypeScript + React + Tailwind_
 
 ## Learn More
 
