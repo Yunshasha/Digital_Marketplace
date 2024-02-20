@@ -6,6 +6,7 @@ _This project is based on Next.js + TypeScript + React + Tailwind_
 
 You can find the full tutorial video for free on Youtube [Josh tried coding](https://www.youtube.com/watch?v=06g6YJ6JCJU&list=PLtDsuMoGvRpiPPiRVlDaVBuzHBCMfh5nH&index=2) channel
 <br/>
+<br/>
 **extensions**
 <br/>
 Tailwind CSS IntelliSense
