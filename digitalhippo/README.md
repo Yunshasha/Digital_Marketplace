@@ -36,4 +36,12 @@ npx shadcn-ui@latest add button
 then you will find the button.tsx under /src/app/ui
 ```
 
+[Lucide](https://lucide.dev/) is where you get all the icons component
+<br/>
+**installation**
+
+```
+npm install lucide-react
+```
+
 <br/>
