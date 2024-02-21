@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<br/>
+<br/>
+![Homepage image](https://github.com/Yunshasha/Digital_Marketplace/blob/main/digitalhippo/public/Homepage.png)
 
 ## Getting Started
 
