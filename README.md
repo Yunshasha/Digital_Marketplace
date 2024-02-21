@@ -1,7 +1,7 @@
 ## Getting Started
 
 _This project is based on Next.js + TypeScript + React + Tailwind_
-(https://github.com/Yunshasha/Digital_Marketplace/blob/main/digitalhippo/public/thumbnail.jpg)
+![image](https://github.com/Yunshasha/Digital_Marketplace/blob/main/digitalhippo/public/thumbnail.jpg)
 
 ## Learn More
 
